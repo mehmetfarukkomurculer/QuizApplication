@@ -14,7 +14,7 @@ The React Native Quiz App is a mobile application that presents users with a set
 
 ## Screenshots
 
-Screenshots/GIFs of the application in action. For example:
+Screenshots and Video of the application in action. For example:
 
 https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/436dfbee-570c-4350-b9a9-fd277f1a8e17
 
