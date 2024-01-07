@@ -18,9 +18,10 @@ Screenshots/GIFs of the application in action. For example:
 
 https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/436dfbee-570c-4350-b9a9-fd277f1a8e17
 
-![summary](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/d94034c5-142d-4958-a95e-eb767005bef8)
+![home-screen](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/fe22f0d3-2cf3-4b60-ab0c-6d4a0440506b)
 ![quiz](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/9202172f-2844-4fcd-bc3d-363b54b18ec8)
+![summary](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/d94034c5-142d-4958-a95e-eb767005bef8)
 ![profile-screen-2](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/03b9bd5f-8f24-40ec-8dbb-781ececac453)
 ![profile-screen](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/c44b18c6-e4c6-4710-9e99-8d1f55e4d2d2)
-![home-screen](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/fe22f0d3-2cf3-4b60-ab0c-6d4a0440506b)
+
 
