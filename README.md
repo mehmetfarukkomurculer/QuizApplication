@@ -16,12 +16,11 @@ The React Native Quiz App is a mobile application that presents users with a set
 
 Screenshots/GIFs of the application in action. For example:
 
-![quiz](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/66f13755-b22c-4ed0-a24a-803006b3be28)
-![profile-screen-2](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/8d539de6-28d1-40ad-86ff-4a2c19eb798d)
-![summary](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/ed85be80-7eb1-4d75-b8fc-5e12c81ad6f4)
-![home-screen](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/3d0888e2-8567-4c79-b7e6-961d5aa3b688)
-![profile-screen](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/4ca3efb4-0bd7-44b0-a5c0-2e17d43903be)
+https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/436dfbee-570c-4350-b9a9-fd277f1a8e17
 
-
-
+![summary](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/d94034c5-142d-4958-a95e-eb767005bef8)
+![quiz](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/9202172f-2844-4fcd-bc3d-363b54b18ec8)
+![profile-screen-2](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/03b9bd5f-8f24-40ec-8dbb-781ececac453)
+![profile-screen](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/c44b18c6-e4c6-4710-9e99-8d1f55e4d2d2)
+![home-screen](https://github.com/mehmetfarukkomurculer/QuizApplication/assets/155771271/fe22f0d3-2cf3-4b60-ab0c-6d4a0440506b)
 
